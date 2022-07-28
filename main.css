@@ -1,0 +1,24 @@
+.sombra{
+
+    text-shadow: -1px -1px 1px #aaa,
+             0px 4px 1px rgba(0,0,0,0.5),
+             4px 4px 5px rgba(0,0,0,0.7),
+             0px 0px 7px rgba(0,0,0,0.4);
+} 
+.col-12{
+    font-weight:normal;
+    font-weight:bold;
+}
+.col-10 text-right{
+    
+        color: blueviolet;
+    
+}
+#productos{
+    height: 50vh;
+    overflow-y: scroll;
+}
+#total{
+   font-weight: bold;
+   font-size: 15px;
+}
